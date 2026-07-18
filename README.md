@@ -151,18 +151,6 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 ## 🧩 LeetCode — Algorithm Boss Rush
 
-> *Unlike a plain stats card, this section treats LeetCode like a game: heatmap = battle log, contest card = boss fights.*
-
-<div align="center">
-
-<!-- Main stats card with heatmap extension -->
-<img width="49%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=transparent&ext=heatmap&font=Fira%20Code&border=2&radius=10&animation=true" alt="LeetCode Stats with Heatmap"/>
-
-<!-- Contest / Boss Battle card -->
-<img width="49%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=nord&ext=contest&font=Fira%20Code&border=2&radius=10&animation=true" alt="LeetCode Contest Rating"/>
-
-</div>
-
 <!-- Activity timeline — unique "quest log" view -->
 <div align="center">
 <img width="100%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=unicorn&ext=activity&font=Fira%20Code&border=2&radius=10&animation=true&width=900&height=200" alt="LeetCode Activity Quest Log"/>
