@@ -33,6 +33,52 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 ---
 
+## 🤖 AI & Cloud
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+**Currently Exploring:** Agentic AI · LangGraph · Azure AI Foundry · MCP Servers · Vector DBs · Fine-tuning
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-85B724?style=for-the-badge&logo=smartbear&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Skill Icons Grid
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,azure,react,typescript,docker,git,linux,postgres,mongodb,redis,vscode,figma&theme=dark&perline=8" alt="Tech stack icons"/>
+</div>
+
+---
+
 ## 📈 Live Market Pulse
 
 <!-- Animated scrolling ticker -->
@@ -74,6 +120,7 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 ---
 
+<!--
 ## 📊 Developer Dashboard
 
 <div align="center">
@@ -100,6 +147,7 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 </div>
 
 ---
+-->
 
 ## 🧩 LeetCode — Algorithm Boss Rush
 
@@ -120,26 +168,32 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 <img width="100%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=unicorn&ext=activity&font=Fira%20Code&border=2&radius=10&animation=true&width=900&height=200" alt="LeetCode Activity Quest Log"/>
 </div>
 
----
+### 🔄 Problem Solving & Execution Workflows
 
-## 👾 Pac-Man Contribution Graph
+#### LeetCode Practice Loop
+```mermaid
+graph TD
+    A[Start: Read Problem] --> B[Analyze Constraints & Complexity]
+    B --> C{Choose Strategy}
+    C -->|Brute Force| D[Draft baseline code]
+    C -->|Optimal Approach| E[Select: DP, Sliding Window, Graphs, etc.]
+    D --> F[Dry run with edge cases]
+    E --> F
+    F --> G[Code optimization & memory tuning]
+    G --> H[Submit & Verify Runtime/Memory Percentile]
+    H -->|Passed| I[Document pattern in Quest Log]
+    H -->|Failed| B
+```
 
-<!-- Requires GitHub Action — see .github/workflows/pacman-contribution.yml -->
-<!-- After first workflow run, this image will appear automatically -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph-dark.svg" width="100%"/>
-</picture>
-
-<!-- Bonus: Galaga contribution graph (uncomment after enabling in workflow) -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/galaga-contribution-graph-dark.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/galaga-contribution-graph-dark.svg" width="100%"/>
-</picture>
--->
+#### Trading Strategy Engineering Pipeline
+```mermaid
+graph LR
+    Idea[Strategy Idea] --> Backtest[Backtest Engine]
+    Backtest --> Evaluate[Risk/Reward Evaluation]
+    Evaluate -->|Fails| Idea
+    Evaluate -->|Passes| Paper[Paper Trading Signal]
+    Paper --> Live[Live Deploy: Azure AI Agent]
+```
 
 ---
 
@@ -201,49 +255,28 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 ---
 
-## 🤖 AI & Cloud
+## 👾 Pac-Man Contribution Graph
 
-<div align="center">
+<!-- Requires GitHub Action — see .github/workflows/pacman-contribution.yml -->
+<!-- After first workflow run, this image will appear automatically -->
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph-dark.svg" width="100%"/>
+</picture>
 
-</div>
-
-**Currently Exploring:** Agentic AI · LangGraph · Azure AI Foundry · MCP Servers · Vector DBs · Fine-tuning
-
----
-
-## ⚡ Tech Stack
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Skill Icons Grid
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,azure,react,typescript,docker,git,linux,postgres,mongodb,redis,vscode,figma&theme=dark&perline=7" alt="Tech stack icons"/>
-</div>
+<!-- Bonus: Galaga contribution graph (uncomment after enabling in workflow) -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/galaga-contribution-graph-dark.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/galaga-contribution-graph-dark.svg" width="100%"/>
+</picture>
+-->
 
 ---
 
+<!--
 ## ☁ Azure Certifications
 
 <!-- Add your cert badges here as you earn them -->
@@ -252,7 +285,9 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 <!-- ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) -->
 
 ---
+-->
 
+<!--
 ## 🏆 Achievements & Activity
 
 <div align="center">
@@ -266,7 +301,9 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 </div>
 
 ---
+-->
 
+<!--
 ## 📖 Latest Blog Posts
 
 <!-- Replace with your blog RSS feed URL -->
@@ -282,14 +319,18 @@ https://dev.to/api/articles?username=YOUR_DEVTO_USERNAME
 -->
 
 ---
+-->
 
+<!--
 ## 🎵 Now Playing
 
 <!-- Replace YOUR_SPOTIFY_ID — get from spotify-now-playing-creator -->
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=3&unique=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
+-->
 
+<!--
 ## 📫 Let's Connect
 
 <div align="center">
@@ -304,11 +345,12 @@ https://dev.to/api/articles?username=YOUR_DEVTO_USERNAME
 </div>
 
 ---
+-->
 
 <div align="center">
 
-<!-- Visitor counter -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CVsiouy.CVsiouy&left_color=0d1117&right_color=00D4FF)
+<!-- Visitor counter (resized to h2 & img height=38 for high visibility) -->
+<h2><img src="https://visitor-badge.laobi.icu/badge?page_id=CVsiouy.CVsiouy&left_color=0d1117&right_color=00D4FF" alt="Visitor Count" height="38"/></h2>
 
 <!-- Footer wave -->
 <img src="assets/footer-wave.svg" alt="" width="100%"/>
