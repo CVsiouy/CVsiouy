@@ -4,7 +4,7 @@
 <img src="assets/banner.svg" alt="Chirag Verma — Software Engineer · Quant Trader · AI Developer" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hi%2C+I'm+Chirag+Verma+%F0%9F%91%8B;Software+Engineer+%7C+.NET+%7C+Azure;Quant+Trader+%7C+Price+Action+%7C+Backtesting;AI+Engineer+%7C+Agents+%7C+RAG+%7C+MCP;Game+Developer+%7C+Systems+Thinker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hi%2C+I'm+Chirag+Verma+%F0%9F%91%8B;Software+Engineer+%7C+.NET+%7C+Azure+%7C+ReactJS;Quant+Trader+%7C;AI+Engineer+%7C+Agents+%7C+RAG+%7C+MCP;Game+Developer)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragverma00310)
@@ -23,7 +23,7 @@
 public class ChiragVerma : IEngineer, IQuant, IBuilder
 {
     public string[] Roles       => ["Software Engineer", "Quant Trader", "AI Developer", "Game Dev"];
-    public string[] CoreStack   => [".NET", "C#", "Azure", "Python", "SQL"];
+    public string[] CoreStack   => [".NET", "C#", "Azure", "Python", "SQL", "React.js"];
     public string[] Focus       => ["Trading Systems", "AI Agents", "Cloud Architecture", "Backtesting"];
     public bool     AlwaysLearning => true;
 }
