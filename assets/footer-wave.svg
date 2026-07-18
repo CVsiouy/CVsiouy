@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40">
+  <path fill="#0d1117" d="M0,20 Q225,40 450,20 T900,20 L900,40 L0,40 Z">
+    <animate attributeName="d"
+      values="M0,20 Q225,40 450,20 T900,20 L900,40 L0,40 Z;
+              M0,20 Q225,0 450,20 T900,20 L900,40 L0,40 Z;
+              M0,20 Q225,40 450,20 T900,20 L900,40 L0,40 Z"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path fill="none" stroke="#00D4FF" stroke-width="1" opacity="0.4" d="M0,20 Q225,35 450,20 T900,20">
+    <animate attributeName="d"
+      values="M0,20 Q225,35 450,20 T900,20;
+              M0,20 Q225,5 450,20 T900,20;
+              M0,20 Q225,35 450,20 T900,20"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
