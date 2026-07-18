@@ -79,47 +79,6 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 ---
 
-## 📈 Live Market Pulse
-
-<!-- Animated scrolling ticker -->
-<img src="assets/market-ticker.svg" alt="Live market ticker — NIFTY, BANKNIFTY, BTC, NASDAQ" width="100%"/>
-
-<!-- Market status + animated candlestick -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Market Status**
-
-<img src="assets/market-status.svg" alt="NSE market status" width="320"/>
-
-</td>
-<td width="50%" align="center">
-
-**Live Candlestick**
-
-<img src="assets/candlestick.svg" alt="Animated candlestick chart" width="320"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Sector heatmap -->
-<img src="assets/trading-heatmap.svg" alt="Animated sector heatmap" width="100%"/>
-
----
-
-## 🚀 Currently Building
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| **Quant Trading Platform** | C# · Python · Azure | 🟢 Active |
-| **AI Agent Framework** | Semantic Kernel · MCP · RAG | 🟢 Active |
-| **Backtesting Engine** | .NET · SQL · Indicators | 🟡 In Progress |
-| **Game Engine** | C# · Graphics | 🔵 Exploring |
-
----
-
 <!--
 ## 📊 Developer Dashboard
 
@@ -149,8 +108,6 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 -->
 
 
----
-
 <!-- Leetcode Section-->
 <div align="center">
 <img width="100%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=unicorn&ext=activity&font=Fira%20Code&border=2&radius=10&animation=true&width=900&height=200" alt="LeetCode Activity Quest Log"/>
@@ -168,7 +125,7 @@ graph LR
 (replace - with below sign)
 -->
 
-
+<!--
 ---
 
 ## 💹 Trading Experience
@@ -219,12 +176,41 @@ graph LR
    │
  NOW ──► AI-assisted trading signals & agent automation
 ```
+-->
+---
 
-### Today's Trading Quote
+## 📈 Live Market Pulse
 
-> *"The market rewards discipline, not intelligence."* — Jesse Livermore
+<!-- Animated scrolling ticker -->
+<img src="assets/market-ticker.svg" alt="Live market ticker — NIFTY, BANKNIFTY, BTC, NASDAQ" width="100%"/>
 
-<!-- Random quote on each refresh -->
+<!-- Market status + animated candlestick -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+**Market Status**
+
+<img src="assets/market-status.svg" alt="NSE market status" width="320"/>
+
+</td>
+<td width="50%" align="center">
+
+**Live Candlestick**
+
+<img src="assets/candlestick.svg" alt="Animated candlestick chart" width="320"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Sector heatmap -->
+<img src="assets/trading-heatmap.svg" alt="Animated sector heatmap" width="100%"/>
+
+---
+
+### Today's Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev/trading quote"/>
 
 ---
