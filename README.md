@@ -1,9 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     GitHub Profile README — Chirag Verma
-     Repo name MUST match your GitHub username exactly: ChiragVerma/ChiragVerma
-     Replace placeholders marked with YOUR_* before publishing.
-     ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <!-- Animated cyber + trading banner -->
@@ -13,10 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hi%2C+I'm+Chirag+Verma+%F0%9F%91%8B;Software+Engineer+%7C+.NET+%7C+Azure;Quant+Trader+%7C+Price+Action+%7C+Backtesting;AI+Engineer+%7C+Agents+%7C+RAG+%7C+MCP;Game+Developer+%7C+Systems+Thinker)](https://git.io/typing-svg)
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragverma00310)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://CVsiouy.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragverma00310@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chiragverma00310)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CVsiouy)
 
 </div>
 
@@ -113,16 +108,16 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 <div align="center">
 
 <!-- Main stats card with heatmap extension -->
-<img width="49%" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=transparent&ext=heatmap&font=Fira%20Code&border=2&radius=10&animation=true" alt="LeetCode Stats with Heatmap"/>
+<img width="49%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=transparent&ext=heatmap&font=Fira%20Code&border=2&radius=10&animation=true" alt="LeetCode Stats with Heatmap"/>
 
 <!-- Contest / Boss Battle card -->
-<img width="49%" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=nord&ext=contest&font=Fira%20Code&border=2&radius=10&animation=true" alt="LeetCode Contest Rating"/>
+<img width="49%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=nord&ext=contest&font=Fira%20Code&border=2&radius=10&animation=true" alt="LeetCode Contest Rating"/>
 
 </div>
 
 <!-- Activity timeline — unique "quest log" view -->
 <div align="center">
-<img width="100%" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=unicorn&ext=activity&font=Fira%20Code&border=2&radius=10&animation=true&width=900&height=200" alt="LeetCode Activity Quest Log"/>
+<img width="100%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=unicorn&ext=activity&font=Fira%20Code&border=2&radius=10&animation=true&width=900&height=200" alt="LeetCode Activity Quest Log"/>
 </div>
 
 ---
@@ -133,16 +128,16 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 <!-- After first workflow run, this image will appear automatically -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragVerma/ChiragVerma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragVerma/ChiragVerma/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/ChiragVerma/ChiragVerma/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
 <!-- Bonus: Galaga contribution graph (uncomment after enabling in workflow) -->
 <!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragVerma/ChiragVerma/output/galaga-contribution-graph-dark.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/ChiragVerma/ChiragVerma/output/galaga-contribution-graph-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/galaga-contribution-graph-dark.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/CVsiouy/CVsiouy/output/galaga-contribution-graph-dark.svg" width="100%"/>
 </picture>
 -->
 
@@ -300,9 +295,11 @@ https://dev.to/api/articles?username=YOUR_DEVTO_USERNAME
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChiragVerma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://CVsiouy.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragverma00310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragverma00310)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chiragverma00310)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CVsiouy)
 
 </div>
 
@@ -311,7 +308,7 @@ https://dev.to/api/articles?username=YOUR_DEVTO_USERNAME
 <div align="center">
 
 <!-- Visitor counter -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ChiragVerma.ChiragVerma&left_color=0d1117&right_color=00D4FF)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CVsiouy.CVsiouy&left_color=0d1117&right_color=00D4FF)
 
 <!-- Footer wave -->
 <img src="assets/footer-wave.svg" alt="" width="100%"/>
