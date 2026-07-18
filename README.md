@@ -125,18 +125,19 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 <div align="center">
 
-<!-- GitHub Stats -->
+- GitHub Stats
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ChiragVerma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" alt="GitHub Stats"/>
 
-<!-- GitHub Streak -->
+- GitHub Streak 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragVerma&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 
-<!-- Top Languages -->
+- Top Languages 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragVerma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
-<!-- GitHub Metrics (richer than basic stats) -->
+- GitHub Metrics (richer than basic stats)
+<!-- 
 <div align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChiragVerma&theme=tokyonight" alt="GitHub Profile Details"/>
 </div>
@@ -144,44 +145,29 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 <div align="center">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiragVerma&theme=tokyonight"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiragVerma&theme=tokyonight"/>
-</div>
-
----
+</div> 
 -->
 
-## 🧩 LeetCode — Algorithm Boss Rush
 
-<!-- Activity timeline — unique "quest log" view -->
+---
+
+<!-- Leetcode Section-->
 <div align="center">
 <img width="100%" src="https://leetcard.jacoblin.cool/chiragverma00310?theme=unicorn&ext=activity&font=Fira%20Code&border=2&radius=10&animation=true&width=900&height=200" alt="LeetCode Activity Quest Log"/>
 </div>
 
-### 🔄 Problem Solving & Execution Workflows
-
-#### LeetCode Practice Loop
-```mermaid
-graph TD
-    A[Start: Read Problem] --> B[Analyze Constraints & Complexity]
-    B --> C{Choose Strategy}
-    C -->|Brute Force| D[Draft baseline code]
-    C -->|Optimal Approach| E[Select: DP, Sliding Window, Graphs, etc.]
-    D --> F[Dry run with edge cases]
-    E --> F
-    F --> G[Code optimization & memory tuning]
-    G --> H[Submit & Verify Runtime/Memory Percentile]
-    H -->|Passed| I[Document pattern in Quest Log]
-    H -->|Failed| B
-```
-
-#### Trading Strategy Engineering Pipeline
+<!-- #### Trading Strategy Engineering Pipeline
 ```mermaid
 graph LR
-    Idea[Strategy Idea] --> Backtest[Backtest Engine]
-    Backtest --> Evaluate[Risk/Reward Evaluation]
-    Evaluate -->|Fails| Idea
-    Evaluate -->|Passes| Paper[Paper Trading Signal]
-    Paper --> Live[Live Deploy: Azure AI Agent]
-```
+   Idea[Strategy Idea] - Backtest[Backtest Engine]
+   Backtest - Evaluate[Risk/Reward Evaluation]
+   Evaluate - Fails| Idea
+   Evaluate - Passes| Paper[Paper Trading Signal]
+   Paper - Live[Live Deploy: Azure AI Agent]
+``` 
+(replace - with below sign)
+-->
+
 
 ---
 
@@ -267,11 +253,10 @@ graph LR
 <!--
 ## ☁ Azure Certifications
 
-<!-- Add your cert badges here as you earn them -->
+<!-- Add your cert badges here as you earn them 
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AZ-204](https://img.shields.io/badge/AZ--204-Developer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-<!-- ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) -->
-
+<!-- ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ---
 -->
 
@@ -280,10 +265,10 @@ graph LR
 
 <div align="center">
 
-<!-- Trophy -->
+# Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=ChiragVerma&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
-<!-- Activity Graph -->
+# Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragVerma&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=7C3AED&point=10B981&area=true" alt="Contribution Activity Graph"/>
 
 </div>
@@ -294,8 +279,8 @@ graph LR
 <!--
 ## 📖 Latest Blog Posts
 
-<!-- Replace with your blog RSS feed URL -->
-<!-- pip install github-readme-blog-posts-action OR use manual links -->
+- Replace with your blog RSS feed URL 
+- pip install github-readme-blog-posts-action OR use manual links 
 
 - 📝 [Building a Quant Backtesting Engine in C#](#)
 - 📝 [Azure AI Agents with Semantic Kernel & MCP](#)
@@ -304,7 +289,6 @@ graph LR
 
 <!-- Auto-fetch from dev.to (uncomment and set username):
 https://dev.to/api/articles?username=YOUR_DEVTO_USERNAME
--->
 
 ---
 -->
@@ -312,7 +296,7 @@ https://dev.to/api/articles?username=YOUR_DEVTO_USERNAME
 <!--
 ## 🎵 Now Playing
 
-<!-- Replace YOUR_SPOTIFY_ID — get from spotify-now-playing-creator -->
+- Replace YOUR_SPOTIFY_ID — get from spotify-now-playing-creator 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=3&unique=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
