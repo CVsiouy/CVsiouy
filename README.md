@@ -33,24 +33,6 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 
 ---
 
-## 🤖 AI & Cloud
-
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-</div>
-
-**Currently Exploring:** Agentic AI · LangGraph · Azure AI Foundry · MCP Servers · Vector DBs · Fine-tuning
-
----
-
 ## ⚡ Tech Stack
 
 ### Languages
@@ -75,6 +57,19 @@ public class ChiragVerma : IEngineer, IQuant, IBuilder
 ### Skill Icons Grid
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,azure,react,typescript,docker,git,linux,postgres,mongodb,redis,vscode,figma&theme=dark&perline=8" alt="Tech stack icons"/>
+</div>
+
+### AI Agents & MCP Tools
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 </div>
 
 ---
@@ -203,9 +198,6 @@ graph LR
 </td>
 </tr>
 </table>
-
-<!-- Sector heatmap -->
-<img src="assets/trading-heatmap.svg" alt="Animated sector heatmap" width="100%"/>
 
 ---
 
