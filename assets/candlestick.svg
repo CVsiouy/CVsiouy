@@ -31,12 +31,12 @@
 
   <!-- Dynamic / Animated live candle based on Nifty 50 -->
   <g>
-    <line x1="250" y1="130" x2="250" y2="55" stroke="#EF4444" stroke-width="1.5">
-      <animate attributeName="y2" values="55;50;60;55" dur="3s" repeatCount="indefinite"/>
+    <line x1="250" y1="130" x2="250" y2="61" stroke="#EF4444" stroke-width="1.5">
+      <animate attributeName="y2" values="61;56;66;61" dur="3s" repeatCount="indefinite"/>
     </line>
-    <rect x="243" y="75" width="14" height="35" fill="#EF4444" rx="1">
-      <animate attributeName="height" values="35;39;31;35" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="75;73;77;75" dur="3s" repeatCount="indefinite"/>
+    <rect x="243" y="81" width="14" height="29" fill="#EF4444" rx="1">
+      <animate attributeName="height" values="29;33;25;29" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="81;79;83;81" dur="3s" repeatCount="indefinite"/>
     </rect>
     <!-- Pulse glow on live candle -->
     <circle cx="250" cy="90" r="20" fill="#EF4444" opacity="0">
@@ -50,5 +50,5 @@
     <animate attributeName="stroke-dashoffset" values="0;-12" dur="1s" repeatCount="indefinite"/>
   </polyline>
 
-  <text x="250" y="175" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#EF4444">▼ -0.58%</text>
+  <text x="250" y="175" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#EF4444">▼ -0.40%</text>
 </svg>
