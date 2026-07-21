@@ -19,11 +19,11 @@
         <tspan x="200" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
         <tspan fill="#EF4444"> ▼ 57,835 -0.19%</tspan>
         <tspan x="420" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#10B981"> ▲ $66,560 +2.06%</tspan>
+        <tspan fill="#10B981"> ▲ $66,193 +1.50%</tspan>
         <tspan x="620" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
-        <tspan fill="#10B981"> ▲ 25,850 +1.34%</tspan>
+        <tspan fill="#10B981"> ▲ 25,871 +1.42%</tspan>
         <tspan x="820" fill="#00D4FF" font-weight="bold">ETH</tspan>
-        <tspan fill="#10B981"> ▲ $1,927 +1.24%</tspan>
+        <tspan fill="#10B981"> ▲ $1,918 +0.77%</tspan>
       </text>
       <!-- Duplicate for seamless loop -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
@@ -32,11 +32,11 @@
         <tspan x="1100" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
         <tspan fill="#EF4444"> ▼ 57,835 -0.19%</tspan>
         <tspan x="1320" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#10B981"> ▲ $66,560 +2.06%</tspan>
+        <tspan fill="#10B981"> ▲ $66,193 +1.50%</tspan>
         <tspan x="1520" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
-        <tspan fill="#10B981"> ▲ 25,850 +1.34%</tspan>
+        <tspan fill="#10B981"> ▲ 25,871 +1.42%</tspan>
         <tspan x="1720" fill="#00D4FF" font-weight="bold">ETH</tspan>
-        <tspan fill="#10B981"> ▲ $1,927 +1.24%</tspan>
+        <tspan fill="#10B981"> ▲ $1,918 +0.77%</tspan>
       </text>
       <text y="38" font-family="Consolas, monospace" font-size="11" fill="#64748b">
         <tspan x="20">⚡ LIVE MARKET PULSE</tspan>
