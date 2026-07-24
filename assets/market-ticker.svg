@@ -21,7 +21,7 @@
         <tspan x="420" fill="#F59E0B" font-weight="bold">BTC</tspan>
         <tspan fill="#EF4444"> ▼ $63,926 -1.72%</tspan>
         <tspan x="620" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
-        <tspan fill="#10B981"> ▲ 25,154 +0.07%</tspan>
+        <tspan fill="#EF4444"> ▼ 25,132 -0.02%</tspan>
         <tspan x="820" fill="#00D4FF" font-weight="bold">ETH</tspan>
         <tspan fill="#EF4444"> ▼ $1,848 -1.53%</tspan>
       </text>
@@ -34,7 +34,7 @@
         <tspan x="1320" fill="#F59E0B" font-weight="bold">BTC</tspan>
         <tspan fill="#EF4444"> ▼ $63,926 -1.72%</tspan>
         <tspan x="1520" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
-        <tspan fill="#10B981"> ▲ 25,154 +0.07%</tspan>
+        <tspan fill="#EF4444"> ▼ 25,132 -0.02%</tspan>
         <tspan x="1720" fill="#00D4FF" font-weight="bold">ETH</tspan>
         <tspan fill="#EF4444"> ▼ $1,848 -1.53%</tspan>
       </text>
