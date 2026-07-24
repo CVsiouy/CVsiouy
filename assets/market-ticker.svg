@@ -15,28 +15,28 @@
       <!-- Ticker row 1 -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
         <tspan x="20" fill="#00D4FF" font-weight="bold">NIFTY50</tspan>
-        <tspan fill="#EF4444"> ▼ 23,791 -0.33%</tspan>
+        <tspan fill="#EF4444"> ▼ 23,767 -0.43%</tspan>
         <tspan x="200" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
-        <tspan fill="#10B981"> ▲ 56,707 +0.20%</tspan>
+        <tspan fill="#10B981"> ▲ 56,694 +0.18%</tspan>
         <tspan x="420" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#10B981"> ▲ $65,334 +0.44%</tspan>
+        <tspan fill="#EF4444"> ▼ $64,951 -0.15%</tspan>
         <tspan x="620" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
         <tspan fill="#EF4444"> ▼ 25,138 -2.15%</tspan>
         <tspan x="820" fill="#00D4FF" font-weight="bold">ETH</tspan>
-        <tspan fill="#10B981"> ▲ $1,888 +0.61%</tspan>
+        <tspan fill="#10B981"> ▲ $1,884 +0.37%</tspan>
       </text>
       <!-- Duplicate for seamless loop -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
         <tspan x="920" fill="#00D4FF" font-weight="bold">NIFTY50</tspan>
-        <tspan fill="#EF4444"> ▼ 23,791 -0.33%</tspan>
+        <tspan fill="#EF4444"> ▼ 23,767 -0.43%</tspan>
         <tspan x="1100" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
-        <tspan fill="#10B981"> ▲ 56,707 +0.20%</tspan>
+        <tspan fill="#10B981"> ▲ 56,694 +0.18%</tspan>
         <tspan x="1320" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#10B981"> ▲ $65,334 +0.44%</tspan>
+        <tspan fill="#EF4444"> ▼ $64,951 -0.15%</tspan>
         <tspan x="1520" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
         <tspan fill="#EF4444"> ▼ 25,138 -2.15%</tspan>
         <tspan x="1720" fill="#00D4FF" font-weight="bold">ETH</tspan>
-        <tspan fill="#10B981"> ▲ $1,888 +0.61%</tspan>
+        <tspan fill="#10B981"> ▲ $1,884 +0.37%</tspan>
       </text>
       <text y="38" font-family="Consolas, monospace" font-size="11" fill="#64748b">
         <tspan x="20">⚡ LIVE MARKET PULSE</tspan>
