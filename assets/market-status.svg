@@ -16,13 +16,13 @@
 
   <!-- Clock -->
   <text x="160" y="115" text-anchor="middle" font-family="Consolas,monospace" font-size="28" fill="#00D4FF" font-weight="700">
-    11:20 AM
+    01:58 PM
     <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
   </text>
   <text x="160" y="135" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="11" fill="#64748b">IST · Indian Standard Time</text>
 
   <!-- Session bar -->
   <rect x="40" y="155" width="240" height="8" fill="#161b22" rx="4"/>
-  <rect x="40" y="155" width="79" height="8" fill="#10B981" rx="4"/>
+  <rect x="40" y="155" width="181" height="8" fill="#10B981" rx="4"/>
   <text x="160" y="185" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="10" fill="#64748b">Session Progress · 09:15 - 15:30</text>
 </svg>
