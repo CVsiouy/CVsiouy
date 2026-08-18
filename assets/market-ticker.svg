@@ -15,11 +15,11 @@
       <!-- Ticker row 1 -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
         <tspan x="20" fill="#00D4FF" font-weight="bold">NIFTY50</tspan>
-        <tspan fill="#EF4444"> ▼ 24,218 -0.61%</tspan>
+        <tspan fill="#EF4444"> ▼ 24,155 -0.87%</tspan>
         <tspan x="200" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
-        <tspan fill="#EF4444"> ▼ 57,391 -0.17%</tspan>
+        <tspan fill="#EF4444"> ▼ 57,262 -0.40%</tspan>
         <tspan x="420" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#EF4444"> ▼ $64,101 -0.60%</tspan>
+        <tspan fill="#EF4444"> ▼ $64,093 -0.61%</tspan>
         <tspan x="620" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
         <tspan fill="#EF4444"> ▼ 26,645 -0.32%</tspan>
         <tspan x="820" fill="#00D4FF" font-weight="bold">ETH</tspan>
@@ -28,11 +28,11 @@
       <!-- Duplicate for seamless loop -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
         <tspan x="920" fill="#00D4FF" font-weight="bold">NIFTY50</tspan>
-        <tspan fill="#EF4444"> ▼ 24,218 -0.61%</tspan>
+        <tspan fill="#EF4444"> ▼ 24,155 -0.87%</tspan>
         <tspan x="1100" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
-        <tspan fill="#EF4444"> ▼ 57,391 -0.17%</tspan>
+        <tspan fill="#EF4444"> ▼ 57,262 -0.40%</tspan>
         <tspan x="1320" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#EF4444"> ▼ $64,101 -0.60%</tspan>
+        <tspan fill="#EF4444"> ▼ $64,093 -0.61%</tspan>
         <tspan x="1520" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
         <tspan fill="#EF4444"> ▼ 26,645 -0.32%</tspan>
         <tspan x="1720" fill="#00D4FF" font-weight="bold">ETH</tspan>
