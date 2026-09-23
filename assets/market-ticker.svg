@@ -15,28 +15,28 @@
       <!-- Ticker row 1 -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
         <tspan x="20" fill="#00D4FF" font-weight="bold">NIFTY50</tspan>
-        <tspan fill="#10B981"> ▲ 23,429 +0.06%</tspan>
+        <tspan fill="#10B981"> ▲ 23,447 +0.14%</tspan>
         <tspan x="200" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
-        <tspan fill="#10B981"> ▲ 56,565 +0.17%</tspan>
+        <tspan fill="#10B981"> ▲ 56,549 +0.14%</tspan>
         <tspan x="420" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#10B981"> ▲ $86,264 +0.08%</tspan>
+        <tspan fill="#EF4444"> ▼ $85,732 -0.54%</tspan>
         <tspan x="620" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
-        <tspan fill="#10B981"> ▲ 27,244 +0.45%</tspan>
+        <tspan fill="#EF4444"> ▼ 27,133 -0.41%</tspan>
         <tspan x="820" fill="#00D4FF" font-weight="bold">ETH</tspan>
-        <tspan fill="#EF4444"> ▼ $2,749 -0.17%</tspan>
+        <tspan fill="#EF4444"> ▼ $2,716 -1.37%</tspan>
       </text>
       <!-- Duplicate for seamless loop -->
       <text y="20" font-family="Consolas, monospace" font-size="13" fill="#e6edf3">
         <tspan x="920" fill="#00D4FF" font-weight="bold">NIFTY50</tspan>
-        <tspan fill="#10B981"> ▲ 23,429 +0.06%</tspan>
+        <tspan fill="#10B981"> ▲ 23,447 +0.14%</tspan>
         <tspan x="1100" fill="#00D4FF" font-weight="bold">BANKNIFTY</tspan>
-        <tspan fill="#10B981"> ▲ 56,565 +0.17%</tspan>
+        <tspan fill="#10B981"> ▲ 56,549 +0.14%</tspan>
         <tspan x="1320" fill="#F59E0B" font-weight="bold">BTC</tspan>
-        <tspan fill="#10B981"> ▲ $86,264 +0.08%</tspan>
+        <tspan fill="#EF4444"> ▼ $85,732 -0.54%</tspan>
         <tspan x="1520" fill="#7C3AED" font-weight="bold">NASDAQ</tspan>
-        <tspan fill="#10B981"> ▲ 27,244 +0.45%</tspan>
+        <tspan fill="#EF4444"> ▼ 27,133 -0.41%</tspan>
         <tspan x="1720" fill="#00D4FF" font-weight="bold">ETH</tspan>
-        <tspan fill="#EF4444"> ▼ $2,749 -0.17%</tspan>
+        <tspan fill="#EF4444"> ▼ $2,716 -1.37%</tspan>
       </text>
       <text y="38" font-family="Consolas, monospace" font-size="11" fill="#64748b">
         <tspan x="20">⚡ LIVE MARKET PULSE</tspan>
